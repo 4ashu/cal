@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "341658972147",
+    "firebase_url": "https://calorie-c6002.firebaseio.com",
+    "project_id": "calorie-c6002",
+    "storage_bucket": "calorie-c6002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341658972147:android:0831b0d7cee7d382",
+        "android_client_info": {
+          "package_name": "com.example.teja.calorie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341658972147-gt3rdtdk8424vten0pcqlu0dl5nt3or4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSxl_1IUQxrUJXpchkjCRpQYsTDr5C2xY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
